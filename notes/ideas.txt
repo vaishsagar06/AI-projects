@@ -1,0 +1,2 @@
+I want to build an AI that summarizes my notes and helps me remember ideas.
+Maybe it can tag each note by topic and date.

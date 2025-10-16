@@ -1,0 +1,3 @@
+- finish openAI embeddings setup
+- learn about vector search
+- test question answering
