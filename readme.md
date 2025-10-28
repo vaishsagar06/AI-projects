@@ -9,8 +9,8 @@ Build a GPT model trained on the tiny_shakespeare dataset.
 - [x] Token aggregation (building "memory")
 - [x] Matrix multiplication for token communication
 - [x] Softmax for attention weights
-- [ ] Self-attention mechanism (in progress)
-- [ ] Multi-head attention
+- [x] Self-attention mechanism 
+- [ ] Multi-head attention (in progress)
 - [ ] Transformer blocks
 - [ ] Full GPT architecture
 
